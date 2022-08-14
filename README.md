@@ -5,7 +5,7 @@
 <title>rickroll</title>
 </head>
 <body bgcolor=purple>
-<audio autoplay controls>
+<audio autoplay controls><!--add "muted" next to "autoplay" to load the page with muted autoplay-->
 	<source src="https://user-images.githubusercontent.com/109108536/184557618-7461120b-edc6-47e8-a6da-eb6cf4fe6c69.mp4" type="audio/mpeg">
 </audio>
       <h2 align=center>You Got Rickrolled!</h2>
